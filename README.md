@@ -6,6 +6,6 @@ Having a depth knowledge in bringing idea into electronic circuit, PCB design, e
 
 ## Skills and Experience
 * 👨🏻‍💻 Embedded Systems
-* 📱 Embedded C / C++
+* 🇨 Embedded C / C++
 * 💻 Linux system
 * 🤖 Robotics
